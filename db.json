@@ -1,0 +1,70 @@
+{
+	"mainSections": [
+		{
+			"id": 0,
+			"name": "Новые книги"
+		},
+		{
+			"id": 1,
+			"name": "Бестселлеры"
+		}
+	],
+	"cards": [
+		{
+			"sectionId": 0,
+			"id": 0,
+			"title": "Симон",
+			"author": "Наринэ Абгарян",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book1.png"
+		},
+		{
+			"sectionId": 0,
+			"id": 1,
+			"title": "Тетрадь в клеточку",
+			"author": "Микита Франко",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book2.png"
+		},
+		{
+			"sectionId": 0,
+			"id": 2,
+			"title": "Пустые холмы",
+			"author": "Марина Козинаки, Софи Ав...",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book3.png"
+		},
+		{
+			"sectionId": 0,
+			"id": 3,
+			"title": "Книжные хроники...",
+			"author": "Лин Рина",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book4.png"
+		},
+		{
+			"sectionId": 1,
+			"id": 4,
+			"title": "Единственный реб...",
+			"author": "Со Миэ",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book5.png"
+		},
+		{
+			"sectionId": 1,
+			"id": 5,
+			"title": "Сестра звезд",
+			"author": "Мара Вульф",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book6.png"
+		},
+		{
+			"sectionId": 1,
+			"id": 6,
+			"title": "Зеленая миля",
+			"author": "Стивен Кинг",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book8.png"
+		},
+		{
+			"sectionId": 1,
+			"id": 7,
+			"title": "Клара и солнце",
+			"author": "Кадзуо Исигуро",
+			"img": "https://github.com/Nck1969/Traine/blob/main/Png/Book7.png"
+		}
+	]
+}
