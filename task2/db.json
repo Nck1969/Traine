@@ -1,0 +1,84 @@
+{
+	"employees": [
+		{
+			"id": 0,
+			"name": "Nikita",
+			"secondName": "Kern",
+			"gender": "male",
+			"age": 21,
+			"about": "Like's basketball and music"
+		},
+		{
+			"id": 1,
+			"name": "Ann",
+			"secondName": "Stepanenko",
+			"gender": "female",
+			"age": 20,
+			"about": "Like's travelling"
+		},
+		{
+			"id": 2,
+			"name": "Iliya",
+			"secondName": "Surta",
+			"gender": "male",
+			"age": 19,
+			"about": "Like's Dota2 and to sleep"
+		},
+		{
+			"id": 3,
+			"name": "Ekaterina",
+			"secondName": "Mockhovicova",
+			"gender": "female",
+			"age": 19,
+			"about": "Like's to draw and tea"
+		},
+		{
+			"id": 4,
+			"name": "Vladislav",
+			"secondName": "Ostapko",
+			"gender": "male",
+			"age": 21,
+			"about": "Like's programming"
+		},
+		{
+			"id": 5,
+			"name": "Maxim",
+			"secondName": "Potapenko",
+			"gender": "male",
+			"age": 21,
+			"about": "Like's play the guitar"
+		},
+		{
+			"id": 6,
+			"name": "Ellina",
+			"secondName": "Pojarskayia",
+			"gender": "feale",
+			"age": 21,
+			"about": "Like's travelling"
+		},
+		{
+			"id": 7,
+			"name": "Egor",
+			"secondName": "Stepanov",
+			"gender": "male",
+			"age": 21,
+			"about": "Like's tik-tok's"
+		},
+		{
+			"id": 8,
+			"name": "Martin",
+			"secondName": "Kojenevskiy",
+			"gender": "male",
+			"age": 21,
+			"about": "Like's armlifting"
+		},
+		{
+			"id": 9,
+			"name": "Alexander",
+			"secondName": "Dvorskiy",
+			"gender": "male",
+			"age": 21,
+			"about": "Like's anime and manga"
+		}
+	]
+}
